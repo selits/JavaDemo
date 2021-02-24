@@ -1,0 +1,13 @@
+
+m
+java:S1104*"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8„ã·Óó.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äºÛİ8·Şõ¥ô.
+m
+java:S1104"PMake num1 a static final constant or non-public and provide accessors if needed.(®©ğë8ûêèÓó.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(äºÛİ8¥ôş¥ô.
+I
+java:S14812"'Remove this unused "ob" local variable.(òÌÃÂøÿÿÿÿ8óÙ×Óó.
+X
+java:S18542"6Remove this useless assignment to local variable "ob".(òÌÃÂøÿÿÿÿ8óÙ×Óó.
+D
+java:S1068+"'Remove this unused "age" private field.(‰Îé—8„ã·Óó.

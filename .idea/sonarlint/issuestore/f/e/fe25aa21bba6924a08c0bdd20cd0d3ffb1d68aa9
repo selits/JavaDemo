@@ -1,0 +1,30 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(õ‹ñîşÿÿÿÿ8†Á×æø.
+h
+java:S2184!"FCast one of the operands of this multiplication operation to a "long".(Ä ¶ÿÿÿÿÿ8úŸë½ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıµìŒ8´Ç·æø.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¸ØïU8È®â½ø.
+`
+java:S3518
+"CMake sure this expression can't be zero before doing this division.(Üßö©8–·æø.
+h
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(Ä ¶ÿÿÿÿÿ8ÀÉÜ½ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8…å°æø.
+c
+java:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8úŸë½ø.
+p
+java:S1450*"SRemove the "name" field and declare it as a local variable in the relevant methods.(Ë¥¼8ˆÖæø.
+t
+java:S1450)"RRemove the "age" field and declare it as a local variable in the relevant methods.(Æ†´¦şÿÿÿÿ8™ºÅæø.
+X	java:S125"<This block of commented-out lines of code should be removed.( Ì‘Ë8à¦Ø½ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ8ùŠã½ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿¡Áğûÿÿÿÿ8õÄºæø.
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(êæ éùÿÿÿÿ8†ƒËæø.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ƒ’˜ı8Ì¹é½ø.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¤³÷òüÿÿÿÿ8Àıíæø.
+I
+java:S1068)"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8†ƒËæø.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Üßö©8–·æø.
+E
+java:S1068*"(Remove this unused "name" private field.(Ë¥¼8Š¨Ôæø.

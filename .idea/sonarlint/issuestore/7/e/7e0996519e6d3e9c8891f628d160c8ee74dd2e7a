@@ -1,0 +1,27 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(”€–øüÿÿÿÿ8®ıæûê.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(°×ëÃ8ôïğ’ï.
+T
+java:S18540"7Remove this useless assignment to local variable "arr".(îÔÏ°8ìã’ï.
+E
+java:S14810"(Remove this unused "arr" local variable.(îÔÏ°8ìã’ï.
+X	java:S125"<This block of commented-out lines of code should be removed.(¡å¼ı8•×Âûê.
+L
+java:S3740"/Provide the parametrized type for this generic.(Á³öÆ8Ğ‰Êûê.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8Ùğâûê.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ø«Ôñ8È˜“ï.
+]	java:S125B"<This block of commented-out lines of code should be removed.(¹İ¼Êøÿÿÿÿ8¸ä’“ï.
+L
+java:S3740"/Provide the parametrized type for this generic.(Á³öÆ8Ğ‰Êûê.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8äòÔûê.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8å’ğûê.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢ËÉşÿÿÿÿ8‹¤Íûê.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ø«Ôñ8¸­‘“ï.
+C
+java:S1481."&Remove this unused "b" local variable.(Á—¡²8¡˜ƒüê.
+R
+java:S1854."5Remove this useless assignment to local variable "b".(Á—¡²8¡˜ƒüê.
+Q
+java:S3740"/Provide the parametrized type for this generic.(”€–øüÿÿÿÿ8®ıæûê.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ËÓÎûê.

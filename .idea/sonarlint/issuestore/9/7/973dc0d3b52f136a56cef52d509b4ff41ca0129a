@@ -1,0 +1,15 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢òĞ×8¢ÒÎøô.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(À¤¼8ë“ìœö.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(—…€8Üõö.
+J
+java:S1905"(Remove this unnecessary cast to "Duper".(Ú¸Î¬üÿÿÿÿ8¬Æö.
+\
+java:S1161":Add the "@Override" annotation above this method signature(ÛñŒåúÿÿÿÿ8­Ïøô.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(—…€8ã¾‚ö.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(­¹æşÿÿÿÿ8­Ïøô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ó¯×Çüÿÿÿÿ8·øíœö.
+\
+java:S1161#":Add the "@Override" annotation above this method signature(ÛñŒåúÿÿÿÿ8ã¾‚ö.
+E
+java:S1905"(Remove this unnecessary cast to "Duper".(‡é©‡8úşˆö.

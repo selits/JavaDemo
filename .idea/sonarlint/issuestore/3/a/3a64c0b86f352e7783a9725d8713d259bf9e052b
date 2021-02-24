@@ -1,0 +1,40 @@
+
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Â‚ñ°
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(¾±Ìè
+G
+java:S1481
+",Remove this unused "number2" local variable.(õòŒÈùÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(æ·ð÷þÿÿÿÿ
+V
+java:S1854
+";Remove this useless assignment to local variable "number2".(õòŒÈùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þØ½°øÿÿÿÿ
+@
+java:S14816"*Remove this unused "first" local variable.(úÄÄ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Üôá½ûÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÝÎÛûÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(²É¼²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©Ù–Õøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰¦á ÿÿÿÿÿ
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ªÓê³8×øððã.
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(«“öúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–÷öï
+B
+java:S1481",Remove this unused "number3" local variable.(šÉš¹
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(‚èÝßüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡„‘ˆ
+O
+java:S18546"9Remove this useless assignment to local variable "first".(úÄÄ
+N
+java:S1854	":Remove this useless assignment to local variable "number".(ÅÁY
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¹¼äåûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÁÍæ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Îõî­
+[
+java:S2184'"@Cast one of the operands of this integer division to a "double".(«“öúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤›É¾ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–÷öï
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(™ÿÌøÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "number3".(šÉš¹
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(¶ð#

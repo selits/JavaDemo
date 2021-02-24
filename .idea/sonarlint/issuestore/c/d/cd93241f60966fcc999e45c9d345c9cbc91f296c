@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÿ¤ûÿÿÿÿ8ÃÖÄ”ø.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿ8›¼½ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ßº¸”ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èæ­¯ÿÿÿÿÿ8ÀîĞ”ø.
+Y
+java:S3518"7Make sure "b" can't be zero before doing this division.(˜ÿ¤ûÿÿÿÿ8ÒçÒ”ø.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÅœØùûÿÿÿÿ8¹­Ê”ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ö£¥òøÿÿÿÿ8Ëû¹”ø.
+]	java:S1254"<This block of commented-out lines of code should be removed.(ø³Æöÿÿÿÿÿ8¨Ğ½ø.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¾éÎİıÿÿÿÿ8ÊŠ¨½ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­«áşÿÿÿÿ8äïÈ”ø.
+a
+java:S2147/"DCombine this catch with the one at line 45, which has the same body.(ï­£Ä8“¾À½ø.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(˜©¡ã8¯õÑ½ø.
+c
+java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Êİ¥½ø.

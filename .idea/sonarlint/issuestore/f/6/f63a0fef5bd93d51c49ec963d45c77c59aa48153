@@ -1,0 +1,26 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8¬øç™å.
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(®Õ×›8¬øç™å.
+T	java:S106!"9Replace this use of System.out or System.err by a logger.(ÖŞ²f8×´§•å.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(»–±Šùÿÿÿÿ8ÚÕ¿•å.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8â¹Ùìä.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¤ƒİ8éÁş•å.
+E
+java:S1659"#Declare "total" on a separate line.(ù•Üïÿÿÿÿÿ8®‡‰•å.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Ë¥³Âùÿÿÿÿ8‰¦Æ–å.
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(øÃˆ8Ù¿ğ™å.
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(ëøÂl8©ìö•å.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(—Â¢·8”õ•å.
+E
+java:S1659"#Declare "count" on a separate line.(ù•Üïÿÿÿÿÿ8®‡‰•å.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(§üÇİ8¬øç™å.
+]	java:S125Y"<This block of commented-out lines of code should be removed.(î¹Î¤øÿÿÿÿ8ÛÄñ™å.
+N
+java:S1264A",Replace this "for" loop with a "while" loop.(äŒ„úÿÿÿÿ8¢ƒÍ–å.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(º‘Ô‹úÿÿÿÿ8¨²Òìä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öÁ½8®‡‰•å.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(Ğòñ8ô•å.
+K
+java:S1481]".Remove this unused "sumSeries" local variable.(í•Ë8ÄÊò™å.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(µ¦åşÿÿÿÿ8Ù¿ğ™å.

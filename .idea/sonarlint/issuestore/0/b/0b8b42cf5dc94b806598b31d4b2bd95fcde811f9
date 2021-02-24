@@ -1,0 +1,24 @@
+
+W
+java:S1854
+"<Remove this useless assignment to local variable "weekDays".(Òó°•ûÿÿÿÿ
+\
+java:S1854	"FRemove this useless assignment to local variable "postiveEvensTill10".(†™ãæ
+S
+java:S1197
+"8Move the array designator from the variable to the type.(Òó°•ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÃ¤¦üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°ŸÜËşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òòşÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÃ¤¦üÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(şä˜
+P	java:S125 "<This block of commented-out lines of code should be removed.(è…Î#
+V	java:S125)"<This block of commented-out lines of code should be removed.(¼¼±Äüÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(‹¾«Ïøÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(şùÿÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(½®¿Ç
+M
+java:S1481	"7Remove this unused "postiveEvensTill10" local variable.(†™ãæ
+H
+java:S1481
+"-Remove this unused "weekDays" local variable.(Òó°•ûÿÿÿÿ

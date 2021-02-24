@@ -1,0 +1,15 @@
+
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(îÕ¬Á8Í©ô·ğ.
+p
+java:S1104"NMake n1 a static final constant or non-public and provide accessors if needed.(ÌÀñÇşÿÿÿÿ8±Ä­·ğ.
+p
+java:S1104"NMake n2 a static final constant or non-public and provide accessors if needed.(ÌÀñÇşÿÿÿÿ8±Ä­·ğ.
+B
+java:S1659" Declare "n2" on a separate line.(ÌÀñÇşÿÿÿÿ8±Ä­·ğ.
+p
+java:S1104"NMake n3 a static final constant or non-public and provide accessors if needed.(ÌÀñÇşÿÿÿÿ8±Ä­·ğ.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ô¸†ùÿÿÿÿ8ÙíÎ·ğ.
+B
+java:S1659" Declare "n3" on a separate line.(ÌÀñÇşÿÿÿÿ8±Ä­·ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(îÕ¬Á8ºô³·ğ.

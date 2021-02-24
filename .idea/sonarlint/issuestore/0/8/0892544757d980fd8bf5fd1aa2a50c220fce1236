@@ -1,0 +1,39 @@
+
+S
+java:S1854P"6Remove this useless assignment to local variable "p3".(Å¡ı¦8›İı»ï.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.( Öª¿şÿÿÿÿ8›İı»ï.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ö³»Ğşÿÿÿÿ8ş¬Ãğ.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(‰ÅıÔüÿÿÿÿ8Ê»’ğ.
+r
+java:S1104d"PMake size a static final constant or non-public and provide accessors if needed.(õ˜óøÿÿÿÿ8²¶–åï.
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(éà­©ıÿÿÿÿ8²¶–åï.
+M
+java:S1444	"+Make this "public static count" field final(°Ó±ùÿÿÿÿ8ÜÔÜ»ï.
+M
+java:S1481n"0Remove this unused "yellowApple" local variable.(€¿Şß8²¶–åï.
+ƒ
+java:S4165""aRemove this useless assignment; "ssn" already holds the assigned value along all execution paths.(–…¤İÿÿÿÿÿ8“ÿ›¼ï.
+D
+java:S1481P"'Remove this unused "p3" local variable.(Å¡ı¦8›İı»ï.
+n
+java:S1104"QMake money a static final constant or non-public and provide accessors if needed.(Òâ‡8‚Å…ğ.
+v
+java:S1104"TMake eyeColor a static final constant or non-public and provide accessors if needed.(×•¨ëøÿÿÿÿ8³ŠÄ“ï.
+s
+java:S1104	"QMake count a static final constant or non-public and provide accessors if needed.(°Ó±ùÿÿÿÿ8ÜÔÜ»ï.
+s
+java:S1104e"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ8²¶–åï.
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(ß•ëÂ8Ê»’ğ.
+m
+java:S1104
+"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ËÌÂ“ï.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(Ó²î¹8›İı»ï.
+l
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8³ŠÄ“ï.
+\
+java:S1854n"?Remove this useless assignment to local variable "yellowApple".(€¿Şß8²¶–åï.
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(ÏÏÃW8ñ•Äğ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(²«Âûûÿÿÿÿ8›İı»ï.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(â×í ıÿÿÿÿ8›İı»ï.
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(â×í ıÿÿÿÿ8”¹‹¼ï.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(âÄ½»ÿÿÿÿÿ8²¶–åï.
